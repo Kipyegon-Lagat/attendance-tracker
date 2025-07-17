@@ -9,7 +9,6 @@ It provides a smooth user experience with a responsive interface, a login page f
 
 - ✅ User login page
 - ✅ Dashboard for managing attendance records
-- ✅ Modern UI with reusable components
 - ✅ Context API for global state management
 - ✅ Built with TypeScript and React
 - ✅ Styled with Tailwind CSS
