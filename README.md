@@ -1,6 +1,6 @@
 Attendance Tracker
 
-**Swoosh Field** is a modern web application for tracking attendance in events, organizations, or workplaces.  
+This is a modern web application for tracking attendance in events, organizations, or workplaces.  
 It provides a smooth user experience with a responsive interface, a login page for authentication, and modular UI components.
 
 ---
