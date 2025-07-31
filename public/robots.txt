@@ -1,7 +1,7 @@
 User-agent: Googlebot
 Allow: /
 
-User-agent: 
+User-agent: Bingbot
 Allow: /
 
 User-agent: Twitterbot
