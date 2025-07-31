@@ -10,7 +10,7 @@ import { AuthProvider, useAuth } from "@/contexts/AuthContext";
 import { Header } from "@/components/Header";
 import Index from "./pages/Index";
 import Login from "./pages/Login";
-import NotFound from "./pages/NotFound";
+import NotFound from "./pages/";
 
 const queryClient = new QueryClient();
 
