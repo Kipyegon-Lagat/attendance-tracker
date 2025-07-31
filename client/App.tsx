@@ -29,7 +29,7 @@ function AuthenticatedApp() {
   }
 
   if (!isAuthenticated) {
-    return <Login />;
+    return <Login/>;
   }
 
   return (
